@@ -16,7 +16,7 @@ def generate_response(model, tokenizer, question, context):
     prompt = f"Контекст: {context}\n\nВопрос: {question}\nОтвет:"
 
     messages = [
-        {"role": "system", "content": "Вы - полезный помощник, которому далее будет дан Контекст (текст, распознанный на видео) и Вопрос (который пользователь задал по этому тексту). Ваша задача - четко и грамотно ответить на вопрос пользователя."},
+        {"role": "system", "content": "Вы - полезный помощник."},
         {"role": "user", "content": prompt}
     ]
 
