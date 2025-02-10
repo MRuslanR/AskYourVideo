@@ -1,5 +1,17 @@
 # AskYourVideo
 
+## About
+AskYourVideo is an AI-powered application that lets you interact with video content through natural language questions. Upload a video, get it transcribed, and ask questions about its content using advanced AI models.
+
+## Tech Stack
+
+ Streamlit (Web Interface)
+
+ FFmpeg (Audio processing)
+
+ Qwen2.5-1.5B-Instruct (to answer questions about the text of the video)
+
+ Whisper-small (Speech recognition)
 
 ## Installation
 Clone the repository:
