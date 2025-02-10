@@ -22,7 +22,7 @@ git clone https://github.com/MRuslanR/AskYourVideo.git
 cd askyourvideo
 ```
 
-Install system dependencies:\
+Install system dependencies:
 ```bash
 sudo apt-get install ffmpeg(Ubuntu/Debian example)
 ```
@@ -49,3 +49,12 @@ Running the Application:
 streamlit run app.py
 ```
 The application will open in your default browser at http://localhost:8501
+
+
+# Hugging Face Space : https://huggingface.co/spaces/MRuslanR/AskYourVideo
+
+<img width="638" alt="Снимок экрана 2025-02-10 в 21 04 29" src="https://github.com/user-attachments/assets/d2beed93-5a92-4bbb-8acb-a417bc8c8531" />
+
+
+
+
