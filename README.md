@@ -1,9 +1,11 @@
 # AskYourVideo
 
 
-# Installation
+## Installation
 Clone the repository:\
-```git clone https://github.com/MRuslanR/AskYourVideo.git```\
+```bash
+git clone https://github.com/MRuslanR/AskYourVideo.git
+```
 ```cd askyourvideo```
 
 Install system dependencies:\
